@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet-isolated",
+    "ConnectionStrings: DefaultConnection": "Server=tcp:ss1.database.windows.net,1433;Initial Catalog=MyProduct;Persist Security Info=False;User ID=ss1;Password={your_password};MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;",
+    "GRPC_SERVER_PORT": "7234"
+  }
+}
